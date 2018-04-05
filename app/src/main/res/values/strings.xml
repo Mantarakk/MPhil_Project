@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MPhilProject</string>
+
+    <string-array name="lifts">
+        <item>Squat</item>
+        <item>Deadlift</item>
+        <item>Bench</item>
+        <item>OHP</item>
+        <item>Snatch</item>
+    </string-array>
+
+    <string-array name="placements">
+        <item>Wrist</item>
+        <item>Bar</item>
+    </string-array>
+
+
+</resources>
